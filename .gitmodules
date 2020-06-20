@@ -1,0 +1,36 @@
+[submodule "like-repositories/ClipFullPathOfSelectionRange"]
+	path = like-repositories/ClipFullPathOfSelectionRange
+	url = https://github.com/yakenohara/ExcelVBA-ClipFullPathOfSelectionRange.git
+[submodule "like-repositories/ClipSheetNames"]
+	path = like-repositories/ClipSheetNames
+	url = https://github.com/yakenohara/ExcelVBA-ClipSheetNames.git
+[submodule "like-repositories/ConvertToHyperLink"]
+	path = like-repositories/ConvertToHyperLink
+	url = https://github.com/yakenohara/ExcelVBA-ConvertToHyperLink.git
+[submodule "like-repositories/CopySheetsWithoutFormula"]
+	path = like-repositories/CopySheetsWithoutFormula
+	url = https://github.com/yakenohara/ExcelVBA-CopySheetsWithoutFormula.git
+[submodule "like-repositories/DeleteHyperLinks"]
+	path = like-repositories/DeleteHyperLinks
+	url = https://github.com/yakenohara/ExcelVBA-DeleteHyperLinks.git
+[submodule "like-repositories/PasteTSVClip"]
+	path = like-repositories/PasteTSVClip
+	url = https://github.com/yakenohara/ExcelVBA-PasteTSVClip.git
+[submodule "like-repositories/RepeatSameValueVertically"]
+	path = like-repositories/RepeatSameValueVertically
+	url = https://github.com/yakenohara/ExcelVBA-RepeatSameValueVertically.git
+[submodule "like-repositories/SeparateByColor"]
+	path = like-repositories/SeparateByColor
+	url = https://github.com/yakenohara/ExcelVBA-SeparateByColor.git
+[submodule "like-repositories/SetSameView"]
+	path = like-repositories/SetSameView
+	url = https://github.com/yakenohara/ExcelVBA-SetSameView.git
+[submodule "like-repositories/ShowHiddenNames"]
+	path = like-repositories/ShowHiddenNames
+	url = https://github.com/yakenohara/ExcelVBA-ShowHiddenNames.git
+[submodule "like-repositories/TableOfContents"]
+	path = like-repositories/TableOfContents
+	url = https://github.com/yakenohara/ExcelVBA-TableOfContents.git
+[submodule "like-repositories/TSVClipWithoutDoubleQuotes"]
+	path = like-repositories/TSVClipWithoutDoubleQuotes
+	url = https://github.com/yakenohara/ExcelVBA-TSVClipWithoutDoubleQuotes.git
