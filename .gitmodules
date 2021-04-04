@@ -34,3 +34,6 @@
 [submodule "like-repositories/TSVClipWithoutDoubleQuotes"]
 	path = like-repositories/TSVClipWithoutDoubleQuotes
 	url = https://github.com/yakenohara/ExcelVBA-TSVClipWithoutDoubleQuotes.git
+[submodule "like-repositories/ClipAsHTMLTable"]
+	path = like-repositories/ClipAsHTMLTable
+	url = https://github.com/yakenohara/ExcelVBA-ClipAsHTMLTable.git
