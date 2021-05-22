@@ -37,3 +37,6 @@
 [submodule "like-repositories/ClipAsHTMLTable"]
 	path = like-repositories/ClipAsHTMLTable
 	url = https://github.com/yakenohara/ExcelVBA-ClipAsHTMLTable.git
+[submodule "like-repositories/ClipAsMarkdownTable"]
+	path = like-repositories/ClipAsMarkdownTable
+	url = https://github.com/yakenohara/ExcelVBA-ClipAsMarkdownTable.git
